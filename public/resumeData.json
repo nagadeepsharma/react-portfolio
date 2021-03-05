@@ -135,7 +135,14 @@
         "category": "Js-Forms-Dynamic",
         "image": "instant.png",
         "url": "https://nagadeepsharma.github.io/Instant-Forms/"
+      },
+      {
+        "title": "React-Django Crud",
+        "category": "React Js-Api-React",
+        "image": "ss.jpg",
+        "url": "https://github.com/nagadeepsharma/django-react-crud.git"
       }
+
     ]
   },
   "testimonials": {
