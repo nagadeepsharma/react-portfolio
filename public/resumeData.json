@@ -129,6 +129,12 @@
         "category": "Ract-Js-amazon-clone-Crdud",
         "image": "amazon.jpg",
         "url": "https://github.com/nagadeepsharma/amazon-clone"
+      },
+      {
+        "title": "Instant-Forms",
+        "category": "Js-Forms-Dynamic",
+        "image": "instant.png",
+        "url": "https://nagadeepsharma.github.io/Instant-Forms/"
       }
     ]
   },
